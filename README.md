@@ -38,7 +38,7 @@ This project is an **Ultrasonic Radar System** built using an **Arduino, Ultraso
 - Wireless communication using **Bluetooth/WiFi**.
 
 ## Author
-**Your Name**  
+**Ruhul Islam**  
 Feel free to reach out for any questions or improvements!
 
 ---
