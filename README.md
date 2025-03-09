@@ -46,11 +46,6 @@ Telegram: [https://t.me/codewithluv143](https://t.me/codewithluv143)
 
 
 Developer: Ruhul Islam  
-
 GitHub: [https://github.com/hritikranjan1](https://github.com/iruhul8750)   
 LinkedIn: [https://www.linkedin.com/in/hritikranjan1/](https://www.linkedin.com/in/ruhul-islam2022/)  
-
-Feel free to reach out for any questions or improvements!
-
----
 This project is open-source and can be improved further with additional sensors and AI-based object detection.
