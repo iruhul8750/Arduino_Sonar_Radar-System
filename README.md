@@ -37,9 +37,15 @@ This project is an **Ultrasonic Radar System** built using an **Arduino, Ultraso
 - Support for **multiple sensors** to enhance accuracy.
 - Wireless communication using **Bluetooth/WiFi**.
 
-## Author
-**Ruhul Islam**  
-Feel free to reach out for any questions or improvements!
+## Contact
 
----
+Developer: Hritik Ranjan  
+GitHub: [https://github.com/hritikranjan1](https://github.com/hritikranjan1)  
+LinkedIn: [https://www.linkedin.com/in/hritikranjan1/](https://www.linkedin.com/in/hritikranjan1/)  
+Telegram: [https://t.me/codewithluv143](https://t.me/codewithluv143)
+
+
+Developer: Ruhul Islam  
+GitHub: [https://github.com/hritikranjan1](https://github.com/iruhul8750)   
+LinkedIn: [https://www.linkedin.com/in/hritikranjan1/](https://www.linkedin.com/in/ruhul-islam2022/)  
 This project is open-source and can be improved further with additional sensors and AI-based object detection.
