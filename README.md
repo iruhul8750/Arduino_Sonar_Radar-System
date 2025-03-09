@@ -44,10 +44,9 @@ GitHub: [https://github.com/hritikranjan1](https://github.com/hritikranjan1)
 LinkedIn: [https://www.linkedin.com/in/hritikranjan1/](https://www.linkedin.com/in/hritikranjan1/)  
 Telegram: [https://t.me/codewithluv143](https://t.me/codewithluv143)
 
-## Contact
 
 Developer: Ruhul Islam 
-GitHub: [https://github.com/hritikranjan1](https://github.com/iruhul8750)  
+GitHub: [https://github.com/hritikranjan1](https://github.com/iruhul8750)   
 LinkedIn: [https://www.linkedin.com/in/hritikranjan1/](https://www.linkedin.com/in/ruhul-islam2022/)  
 
 Feel free to reach out for any questions or improvements!
